@@ -1,0 +1,5 @@
+{* I am a Smarty comment, I don't exist in the compiled output *}
+{include file='string'}
+{if ($foo+$bar.test%$baz*(134232+10+$b+10))}
+{/if}
+{?}{/?}

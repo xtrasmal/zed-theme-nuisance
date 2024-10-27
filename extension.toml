@@ -1,0 +1,8 @@
+id = "nuisance"
+name = "Nuisance Theme"
+version = "0.0.7"
+schema_version = 1
+authors = ["Xander <1174877+xtrasmal@users.noreply.github.com>"]
+description = "Less nuisance - Zed theme"
+repository = "https://github.com/xtrasmal/zed-theme-nuisance"
+
